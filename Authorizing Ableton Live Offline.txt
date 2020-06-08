@@ -1,0 +1,16 @@
+﻿Instructions for Offline Authorization
+--------------------------------------
+
+Here’s what you need for offline authorization:
+
+- An external storage device (such as a USB stick)
+
+- A computer with an internet connection
+
+- Your Ableton serial number (if you bought Live in a store)
+
+- Your hardware code: 2249-AB76-6641-CCFB-5E98-8D31
+
+On an internet-connected computer, go to www.ableton.com/authorize.
+This web page will provide you with more information.
+
